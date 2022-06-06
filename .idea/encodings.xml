@@ -11,6 +11,10 @@
     <file url="file://$PROJECT_DIR$/src/main/java/homework7/Cat.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/homework7/Main.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/homework7/Plate.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/homework8/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/homework8/entity/Cat.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/homework8/entity/Human.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/homework8/entity/Robot.java" charset="UTF-8" />
     <file url="PROJECT" charset="windows-1251" />
   </component>
 </project>
